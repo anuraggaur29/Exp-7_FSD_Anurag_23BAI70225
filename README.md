@@ -68,19 +68,19 @@ Base URL: `http://localhost:8080`
 ## Project Structure
 ```text
 src/
-├─ main/
-│  ├─ java/com/example/experiment7/
-│  │  ├─ config/
-│  │  ├─ controller/
-│  │  ├─ dto/
-│  │  ├─ entity/
-│  │  ├─ repository/
-│  │  ├─ service/
-│  │  └─ Experiment7Application.java
-│  └─ resources/
-│     ├─ application.properties
-│     └─ data.sql
-└─ test/
+â”œâ”€ main/
+â”‚  â”œâ”€ java/com/example/experiment7/
+â”‚  â”‚  â”œâ”€ config/
+â”‚  â”‚  â”œâ”€ controller/
+â”‚  â”‚  â”œâ”€ dto/
+â”‚  â”‚  â”œâ”€ entity/
+â”‚  â”‚  â”œâ”€ repository/
+â”‚  â”‚  â”œâ”€ service/
+â”‚  â”‚  â””â”€ Experiment7Application.java
+â”‚  â””â”€ resources/
+â”‚     â”œâ”€ application.properties
+â”‚     â””â”€ data.sql
+â””â”€ test/
 ```
 
 ## Screenshot Checklist
